@@ -11,3 +11,12 @@ This course teaches you the basic of automation using Python based on Linux OS. 
 
 # My Certificate
 ![Cert](Google_IT_Automation-1.png)
+
+# Project
+One of the task in the final coursework in topic 'Automating Real-World Tasks with Python' consisted of reading a json file and parsing it's content and uploading it to a HTML page
+## Code
+![code](read_data_and_POSTpng.png)
+## Code output
+![code output](output_of_POST.png)
+## HTML Page
+![html page](html_page_POST.png)
